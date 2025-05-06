@@ -35,7 +35,7 @@
   {order.id}
   ```
 
-## Order Module:
+## Quality Control Module:
   All General Variables + 
   ```
   {order.channel}
