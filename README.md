@@ -34,4 +34,16 @@
   {order.timestamp}
   {order.id}
   ```
+
+## Order Module:
+  All General Variables + 
+  ```
+  {order.channel}
+  {order.image_url}
+  {quality_emoji}
+  {customer_note_emoji}
+  {product_emoji}
+  {designer_emoji}
+
+  ```
   
